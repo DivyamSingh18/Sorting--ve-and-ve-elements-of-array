@@ -1,4 +1,4 @@
-# Sorting--ve-and-ve-elements-of-array
+# Sorting-negative-and-positive-elements-of-array
 
 
 output:
