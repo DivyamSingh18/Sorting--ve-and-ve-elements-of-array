@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Question_5_DSA_sheet {
+public class Index {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the no. of elements of array");
